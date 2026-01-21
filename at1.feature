@@ -38,7 +38,7 @@
             Então deve exibir a mensagem "Ola João Carlo!"
 
             Cenario: Inserir dados inválidos
-            Quando o usuário inserir o email "joãocarros@gmail.com"
+            Quando o usuário inserir o email "joãocarros@gail.com"
             E e inserir tambem a sua senha "mô5555"
             Então deve exibir a mensagem "Usuário ou senha inválidos"
             #---------------------------------------------------------------------------
@@ -76,4 +76,5 @@
             | Não Preenchidos    | "tro2190000@"            | "Email com formato inválido e Preencha todos os campos obrigatórios" |
             | Preenchidos        | "gororoba@gmail.com"     | "Cadastro concluido com sucesso"                                     |
 #---------------------------------------------------------------------------
+
 #Atividade Ebac Realizada Por: Augusto Tavares dos Santos Oliveira Carvalho
